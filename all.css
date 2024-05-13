@@ -53,3 +53,7 @@ h4 {
   padding-top: 15px;
   padding-bottom: 41px;
 }
+.form-check-input:checked {
+  background-color: #4bc76d;
+  border-color: #4bc76d;
+}
